@@ -29,7 +29,7 @@ const RoomPage = () => {
                 sharedLinks:[
                     {
                         name:"Copy Link",
-                        url:`https://aaraavcall.netlify.app/room/${roomId}`
+                        url:`https://auccall.vercel.app/room/${roomId}`
                     }
                 ],
 
