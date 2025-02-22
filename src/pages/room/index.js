@@ -8,8 +8,8 @@ const RoomPage = () => {
 
     useEffect(() => {
         const myMeeting = async () => {
-            const appId = 1521715544; // Ensure this is a number
-            const serverSecret = "dc734263bea7c7debe384e64b913d795";
+            const appId = 1952631639; // Ensure this is a number
+            const serverSecret = "5bfbaf0fee3ba6528554899332ce475f";
 
             // Generate the kit token
             const kitToken = ZegoUIKitPrebuilt.generateKitTokenForTest(
